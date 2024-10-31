@@ -1,0 +1,43 @@
+.qrp-setting ul{
+	padding: 0px;
+}
+.qrp-setting .tab-nav{
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #2E353D;
+	padding: 0px;
+	padding-left: 0px;
+}
+.qrp-setting .tab-nav{
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #2E353D;
+	padding: 0px;
+	padding-left: 0px;
+}
+.qrp-setting .tab-nav li{
+	float: left;
+	clear: right;
+	background: #2E353D;
+	color: #fff;
+	padding: 10px 30px;
+	margin-right: 1px;
+	cursor: pointer;
+}
+.qrp-setting .tab-nav li.active{
+	background: #99AD3E;
+}
+.box2 .shortcode{
+	border-top: 1px solid #2E353D;
+}
+.qrp-box-title{
+	color: #99AD3E;
+	font-weight: bold;
+}
+.qrp-box-description{
+	font-style: italic;
+}
+.quick_related_post_custom_style{
+	width: 635px;
+    height: 250px;
+}
